@@ -2,7 +2,8 @@
 
 Human activities like farming, deforestation, and urban expansion contribute about 23% of global greenhouse gas emissions. Tracking land use changes is crucial for environmental protection, urban planning, and disaster risk reduction. Advances in AI and satellite imaging now allow for large-scale mapping of land use. This tutorial explores using Sentinel-2 images and deep learning in PyTorch to automate land cover mapping.
 
-## W&B Experiment Tracking
+## Weights & Biases Experiment Logs
 
-[![W&B Dashboard](https://wandb.ai/your-username/your-project/overview)](https://wandb.ai/your-username/your-project)
+You can view the detailed experiment logs and results in the [**Weights & Biases Dashboard**](https://wandb.ai/davian-yang/lulc) :rocket:
 
+![W&B Logo](https://upload.wikimedia.org/wikipedia/commons/e/e4/Weights_&_Biases_logo.png)
