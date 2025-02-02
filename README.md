@@ -5,5 +5,3 @@ Human activities like farming, deforestation, and urban expansion contribute abo
 ## Weights & Biases Experiment Logs
 
 You can view the detailed experiment logs and results in the [**Weights & Biases Dashboard**](https://wandb.ai/davian-yang/lulc) :rocket:
-
-![W&B Logo](https://upload.wikimedia.org/wikipedia/commons/e/e4/Weights_&_Biases_logo.png)
